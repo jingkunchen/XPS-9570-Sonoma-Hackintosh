@@ -1,9 +1,6 @@
-# XPS-9570-Sonoma-Hackintosh
-EFI configuration for running macOS Sonoma on the Dell XPS 9570 using OpenCore 1.0.1. Fully optimized for a smooth Hackintosh experience.
+# XPS 9570 macOS Sonoma 14.6.1 EFI (OpenCore 1.0.1)
 
-# XPS 9570 macOS Sonoma EFI (OpenCore 1.0.1)
-
-This repository contains the EFI files for running macOS Sonoma on the Dell XPS 9570 (i7-8750H / 4K UHD / GTX 1050 Ti Max-Q / Intel UHD 630) using OpenCore 1.0.1.
+This repository contains the EFI files for running macOS Sonoma 14.6.1 on the Dell XPS 9570 (i7-8750H / 4K UHD / GTX 1050 Ti Max-Q / Intel UHD 630) using OpenCore 1.0.1.
 
 ## Specifications
 
